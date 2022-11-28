@@ -21,7 +21,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Fall 2022 Cloud for Developers
+          Fall 2022 Cloud for Developers - CI/CD Project 4
         </p>
         <p>
           Counter: {counter}
